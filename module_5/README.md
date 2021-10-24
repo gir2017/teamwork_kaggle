@@ -31,7 +31,10 @@ We need to build a model that can predict car's price by its features.
 + Dividing features into categories.
 + Analysis of relation between features categories and with a target value.
 
-3. ML
+3. Feature Engineering
++ Two new features have been included into dataset.
+
+4. ML
 + Encoding of all binary and categorical features.
 + Testing of 5 different models: Random Forest, CatBoost, Gradient Boosting, XGBoost, LightGBM. Bagging and stacking have also been tested.
 
@@ -51,5 +54,5 @@ We need to build a model that can predict car's price by its features.
 ## Retrospective ##
 + The project is too massive to be done within a week.
 + The team had a lot of issues with kaggle and parsing and has wasted a lot of time on solving them.
-+ Feature Engineering had to be skipped due to deadline.
++ Time for Feature Engineering had to be reduced due to deadline.
 + The work has been very stressful under such conditions, the team is not satisfied.
