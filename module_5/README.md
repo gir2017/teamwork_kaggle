@@ -41,8 +41,8 @@ We need to build a model that can predict car's price by its features.
 ## Results ##
 + Standartisation of numeric variabled hasn't given quality increase thus hasn't been used.
 + The best result was shown by Stacking of Gradient Boosting and XGBoost.
-+ The best MAPE metric on the leaderboard is  .
-+ The leaderboard ranking is  .
++ The best MAPE metric on the leaderboard is  11.84955%.
++ The leaderboard ranking is  22.
 
 ## What could be improved ##
 + Perfoming of feature engineering.
