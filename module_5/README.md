@@ -1,6 +1,6 @@
 # Project 5. Car price prediction
 ##### Done by Alena Kurylchyk and Marina Bovkush as BK_Team
-##### LB MAPE %, ranking is .
+##### LB MAPE 11.84955%, ranking is 22.
 
 ## Project objective ##
 We need to build a model that can predict car's price by its features.
