@@ -18,11 +18,11 @@ We need to build a model that can predict car's price by its features.
 
 ## What has been done ##
 0. Gathering of a team.
-1. Data enrichment.<br/>
+1. Data enrichment.
 + Parsing of relevant data from auto.ru.
 + Unification and merging of test and parsed datasets.
-<br/><br/>
-2. EDA<br/>
+
+2. EDA
 + Quick dataset overview using profile report.
 + Handling of duplicates.
 + Handling of missing values.
@@ -30,8 +30,8 @@ We need to build a model that can predict car's price by its features.
 + Outlier analysis.
 + Dividing features into categories.
 + Analysis of relation between features categories and with a target value.
-<br/><br/>
-3. ML<br/>
+
+3. ML
 + Encoding of all binary and categorical features.
 + Testing of 5 different models: Random Forest, CatBoost, Gradient Boosting, XGBoost, LightGBM. Bagging and stacking have also been tested.
 
